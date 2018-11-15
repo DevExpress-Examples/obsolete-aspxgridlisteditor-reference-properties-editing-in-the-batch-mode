@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[CreateCustomEditItemTemplateController.cs](./CS/Solution2.Module.Web/Controllers/CreateCustomEditItemTemplateController.cs) (VB: [CreateCustomEditItemTemplateController.vb](./VB/Solution2.Module.Web/Controllers/CreateCustomEditItemTemplateController.vb))**
+* [ReferencedTemplate.cs](./CS/Solution2.Module.Web/Editors/ReferencedTemplate.cs) (VB: [ReferencedTemplate.vb](./VB/Solution2.Module.Web/Editors/ReferencedTemplate.vb))
+<!-- default file list end -->
 #  ASPxGridListEditor - Reference properties editing in the batch mode
 
 
